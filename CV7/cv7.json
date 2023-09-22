@@ -19,6 +19,68 @@
     ],
     "2": [
         "KỸ NĂNG",
-        5
+        5,
+        [
+            "KỸ NĂNG",
+            "PHP",
+            "HTML",
+            "c++",
+            "TƯ DUY LOGIC"
+        ]
+    ],
+    "3": [
+        "TÓM TẮT",
+        2,
+        [
+            "TÓM TẮT",
+            "Tư duy logic Tư duy logic Tư duy logic Tư duy logic Tư duy logic Tư duy logic Tư duy logic Tư duy logic "
+        ]
+    ],
+    "4": [
+        "Sở thích",
+        4,
+        [
+            "Sở thích",
+            "Đi du lịch",
+            "Chụp ảnh",
+            "Đọc sách"
+        ]
+    ],
+    "5": [
+        "Kinh nghiệm làm việc",
+        3,
+        [
+            "Kinh nghiệm làm việc",
+            "Chuyên viên lập trình \n Công ty nguồn lực hòa an \n I see ya \n 2014/2015",
+            "Chuyên viên lập trình \n Công ty nguồn lực hòa an \n I see ya \n 2014/2015"
+        ]
+    ],
+    "6": [
+        "Ngoại ngữ",
+        5,
+        [
+            "Ngoại ngữ",
+            "Tiếng Anh",
+            "Tiếng Pháp",
+            "Tiếng Đức",
+            "Tiếng Trung"
+        ]
+    ],
+    "7": [
+        "Học vấn",
+        3,
+        [
+            "Học vấn",
+            "Chuyên viên lập trình \n Công ty nguồn lực hòa an \n I see ya \n 2014/2015",
+            "Chuyên viên lập trình \n Công ty nguồn lực hòa an \n I see ya \n 2014/2015"
+        ]
+    ],
+    "8": [
+        "Người tham chiếu",
+        2,
+        [
+            "Người tham chiếu",
+            "Regsmitj \n bbbbbbb"
+        ]
     ]
 }
