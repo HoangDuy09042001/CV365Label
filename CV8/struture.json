@@ -1,0 +1,49 @@
+{
+    "0": [
+        "Tên",
+        1,
+        [
+            "Tên"
+        ]
+    ],
+    "1": [
+        "Mục tiêu nghề nghiệp",
+        1,
+        [
+            "Nội dung"
+        ]
+    ],
+    "2": [
+        "Thông tin liên hệ",
+        1,
+        [
+            "Nội dung (Bao gồm: SDT \n Email \n Địa chỉ)"
+        ]
+    ],
+    "3": [
+        "Học vấn",
+        2,
+        [
+            "Nội dung (Bao gồm: Thời gian học \n Nơi học \n Mô tả)",
+            "Nội dung (Bao gồm: Thời gian học \n Nơi học \n Mô tả)"
+        ]
+    ],
+    "4": [
+        "Kỹ năng",
+        4,
+        [
+            "Kỹ năng 1",
+            "Kỹ năng 2",
+            "Kỹ năng 3",
+            "Kỹ năng 4"
+        ]
+    ],
+    "5": [
+        "Kinh nghiệm làm việc",
+        4,
+        "Kinh nghiệm làm việc 1",
+        "Kinh nghiệm làm việc 2",
+        "Kinh nghiệm làm việc 3",
+        "Kinh nghiệm làm việc 4"
+    ]
+}
