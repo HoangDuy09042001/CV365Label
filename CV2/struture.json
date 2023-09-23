@@ -1,0 +1,74 @@
+{
+    "0": [
+        "Tóm tắt",
+        1,
+        [
+            "Nội dung"
+        ]
+    ],
+    "1": [
+        "Học vấn",
+        2,
+        [
+            "Năm",
+            "Nội dung (Bao gồm: Trường + Chuyên ngành + GPA)"
+        ]
+    ],
+    "2": [
+        "KINH NGHIỆM",
+        4,
+        [
+            "Khoảng thời gian làm việc 1",
+            "Nội dung 1",
+            "Khoảng thời gian làm việc 2",
+            "Nội dung 2"
+        ]
+    ],
+    "3": [
+        "THÔNG TIN LIÊN HỆ",
+        3,
+        [
+            "SDT",
+            "gmail",
+            "Địa chỉ"
+        ]
+    ],
+    "4": [
+        "KỸ NĂNG",
+        5,
+        [
+            "KỸ NĂNG 1",
+            "KỸ NĂNG 2",
+            "KỸ NĂNG 3",
+            "KỸ NĂNG 4",
+            "KỸ NĂNG 5"
+        ]
+    ],
+    "5": [
+        "Tên, Nghề nghiệp, Mô tả tổng quan bản thân",
+        3,
+        [
+            "Tên",
+            "Nghề nghiệp",
+            "Nội dung"
+        ]
+    ],
+    "6": [
+        "Sở thích",
+        3,
+        [
+            "Sở thích 1",
+            "Sở thích 2",
+            "Sở thích 3"
+        ]
+    ],
+    "7": [
+        "Ngoại ngữ",
+        3,
+        [
+            "Ngoại ngữ 1",
+            "Ngoại ngữ 2",
+            "Ngoại ngữ 3"
+        ]
+    ]
+}
