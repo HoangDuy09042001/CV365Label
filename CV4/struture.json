@@ -1,0 +1,71 @@
+{
+    "0": [
+        "Liên hệ",
+        4,
+        [
+            "Giới tính",
+            "SDT",
+            "Địa chỉ",
+            "Ngày sinh"
+        ]
+    ],
+    "1": [
+        "Tóm tắt",
+        1,
+        [
+            "Nội dung"
+        ]
+    ],
+    "2": [
+        "Học vấn",
+        2,
+        [
+            "Học vấn 1",
+            "Học vấn 2"
+        ]
+    ],
+    "3": [
+        "Kỹ năng",
+        5,
+        [
+            "Kỹ năng 1",
+            "Kỹ năng 2",
+            "Kỹ năng 3",
+            "Kỹ năng 4",
+            "Kỹ năng 5"
+        ]
+    ],
+    "4": [
+        "Kinh nghiệm",
+        2,
+        [
+            "Kinh nghiệm 1",
+            "Kinh nghiệm 2"
+        ]
+    ],
+    "5": [
+        "Ngôn ngữ",
+        3,
+        [
+            "Ngôn ngữ 1",
+            "Ngôn ngữ 2",
+            "Ngôn ngữ 3"
+        ]
+    ],
+    "6": [
+        "Tên và Nghề nghiệp và Sở thích",
+        3,
+        [
+            "Tên",
+            "Nghề nghiệp",
+            "Sở thích"
+        ]
+    ],
+    "7": [
+        "Hoạt động",
+        1,
+        [
+            "Nội dung"
+        ]
+    ]
+}
