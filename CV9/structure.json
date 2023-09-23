@@ -1,0 +1,55 @@
+{
+    "0": [
+        "Tên và nghề",
+        2,
+        [
+            "Tên",
+            "Nghề"
+        ]
+    ],
+    "1": [
+        "Mô tả vắn tắt về bản thân ",
+        1,
+        [
+            "Nôi dung"
+        ]
+    ],
+    "2": [
+        "Ngoại ngữ",
+        3,
+        [
+            "Phần trăm thành thạo + Ngoại ngữ: Ví dụ: '99% \n Tiếng Anh'",
+            "Phần trăm thành thạo + Ngoại ngữ: Ví dụ: '30% \n Tiếng Đức'",
+            "Phần trăm thành thạo + Ngoại ngữ: Ví dụ: '40% \n Tiếng Ý'"
+        ]
+    ],
+    "3": [
+        "KỸ NĂNG",
+        3,
+        [
+            "Kỹ năng 1 Ví dụ:'Tư duy logic'",
+            "Kỹ năng 2 Ví dụ:'Hoạt ngôn'",
+            "Kỹ năng 1 Ví dụ:'Thấu cảm, hiểu rõ nhu cầu khách hàng'"
+        ]
+    ],
+    "4": [
+        "THÔNG TIN LIÊN HỆ",
+        3,
+        [
+            "Số điện thoại",
+            "email",
+            "địa chỉ"
+        ]
+    ],
+    "5": [
+        "KINH NGHIỆM LÀM VIỆC",
+        4,
+        [
+            "Thời gian làm việc VD: '2015 - 2017'",
+            "Nội dung",
+            "Thời gian làm việc VD: '2015 - 2017'",
+            "Nội dung"
+        ]
+    ]
+
+}
