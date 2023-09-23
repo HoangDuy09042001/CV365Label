@@ -1,0 +1,75 @@
+{
+    "0": [
+        "Nghề nghiệp và Tên",
+        2,
+        [
+            "Nghề nghiệp",
+            "Tên"
+        ]
+    ],
+    "1": [
+        "Mục tiêu nghề nghiệp",
+        2,
+        [
+            "Mục tiêu nghề nghiệp 1",
+            "Mục tiêu nghề nghiệp 2"
+        ]
+    ],
+    "2": [
+        "Kinh nghiệm làm việc",
+        2,
+        [
+            "Kinh nghiệm làm việc 1",
+            "Kinh nghiệm làm việc 2"
+        ]
+    ],
+    "3": [
+        "Người tham chiếu",
+        1,
+        [
+            "Nội dung"
+        ]
+    ],
+    "4": [
+        "Dự án tham gia",
+        1,
+        [
+            "Nội dung"
+        ]
+    ],
+    "5": [
+        "Kỹ năng",
+        1,
+        [
+            "Nội dung"
+        ]
+    ],
+    "6": [
+        "Chứng chỉ",
+        1,
+        [
+            "Nội dung"
+        ]
+    ],
+    "7": [
+        "Sở thích",
+        1,
+        [
+            "Nội dung"
+        ]
+    ],
+    "8": [
+        "Giải thưởng",
+        1,
+        [
+            "Nội dung"
+        ]
+    ],
+    "9": [
+        "Hoạt động",
+        1,
+        [
+            "Nội dung"
+        ]
+    ]
+}
