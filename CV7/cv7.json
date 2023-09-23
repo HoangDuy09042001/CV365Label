@@ -1,7 +1,7 @@
 {
     "0": [
         "Tên và nghề ứng tuyển",
-        2,
+        1,
         [
             "HOÀNG THÁI AN \n LẬP TRÌNH WEB"
         ]
@@ -10,77 +10,69 @@
         "THÔNG TIN LIÊN HỆ",
         4,
         [
-            "THÔNG TIN LIÊN HỆ",
-            "thailan51@gmail.com",
-            "+849644123",
-            "Số 3, Thượng Đình",
-            "www.printest.com/hthua"
+            "email",
+            "SDT",
+            "Địa chỉ",
+            "website"
         ]
     ],
     "2": [
         "KỸ NĂNG",
         5,
         [
-            "KỸ NĂNG",
-            "PHP",
-            "HTML",
-            "c++",
-            "TƯ DUY LOGIC"
+            "Kỹ năng 1",
+            "Kỹ năng 2",
+            "Kỹ năng 3",
+            "Kỹ năng 4"
         ]
     ],
     "3": [
         "TÓM TẮT",
-        2,
+        1,
         [
-            "TÓM TẮT",
-            "Tư duy logic Tư duy logic Tư duy logic Tư duy logic Tư duy logic Tư duy logic Tư duy logic Tư duy logic "
+            "Nội dung"
         ]
     ],
     "4": [
         "Sở thích",
-        4,
+        3,
         [
-            "Sở thích",
-            "Đi du lịch",
-            "Chụp ảnh",
-            "Đọc sách"
+            "Sở thích 1",
+            "Sở thích 2",
+            "Sở thích 3"
         ]
     ],
     "5": [
         "Kinh nghiệm làm việc",
-        3,
+        2,
         [
-            "Kinh nghiệm làm việc",
-            "Chuyên viên lập trình \n Công ty nguồn lực hòa an \n I see ya \n 2014/2015",
-            "Chuyên viên lập trình \n Công ty nguồn lực hòa an \n I see ya \n 2014/2015"
+            "Kinh nghiệm làm việc 1",
+            "Kinh nghiệm làm việc 2"
         ]
     ],
     "6": [
         "Ngoại ngữ",
-        5,
+        4,
         [
-            "Ngoại ngữ",
-            "Tiếng Anh",
-            "Tiếng Pháp",
-            "Tiếng Đức",
-            "Tiếng Trung"
+            "Ngoại ngữ 1",
+            "Ngoại ngữ 2",
+            "Ngoại ngữ 3",
+            "Ngoại ngữ 4"
         ]
     ],
     "7": [
         "Học vấn",
-        3,
+        2,
         [
-            "Học vấn",
-            "Chuyên viên lập trình \n Công ty nguồn lực hòa an \n I see ya \n 2014/2015",
-            "Chuyên viên lập trình \n Công ty nguồn lực hòa an \n I see ya \n 2014/2015"
+            "Học vấn 1",
+            "Học vấn 2"
         ]
     ],
     "8": [
         "Người tham chiếu",
-        2,
+        1,
         [
-            "Người tham chiếu",
-            "Regsmitj \n bbbbbbb"
+            "Nội dung"
         ]
     ]
 }
