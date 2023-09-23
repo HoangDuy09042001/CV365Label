@@ -1,0 +1,80 @@
+{
+    "0": [
+        "Tên và Nghề",
+        2,
+        [
+            "Tên",
+            "Nghề"
+        ]
+    ],
+    "1": [
+        "Tóm tắt bản thân và liên lạc",
+        4,
+        [
+            "Nội dung",
+            "Địa chỉ",
+            "SDT",
+            "email"
+        ]
+    ],
+    "2": [
+        "Rỗng",
+        0,
+        []
+    ],
+    "3": [
+        "Học vấn",
+        2,
+        [
+            "Năm học",
+            "Nội dung (Bao gồm: Trường + Ngành học + GPA)"
+        ]
+    ],
+    "4": [
+        "Kinh nghiệm",
+        2,
+        [
+            "Kinh nghiệm 1",
+            "Kinh nghiệm 2"
+        ]
+    ],
+    "5": [
+        "Kỹ năng",
+        4,
+        [
+            "Kỹ năng 1",
+            "Kỹ năng 2",
+            "Kỹ năng 3",
+            "Kỹ năng 4"
+        ]
+    ],
+    "6": [
+        "Ngoại ngữ",
+        0,
+        []
+    ],
+    "7": [
+        "Liên hệ",
+        4,
+        [
+            "Instagram",
+            "Twitter",
+            "Facebook",
+            "Telegram"
+        ]
+    ],
+    "8": [
+        "Dự án tham gia",
+        1,
+        ["Nội dung"]
+    ],
+    "9": [
+        "Ngoại ngữ",
+        3,
+        [
+            "Ngoại ngữ 1",
+            "Ngoại ngữ 2",
+            "Ngoại ngữ 3"
+        ]
+    ]
+}
