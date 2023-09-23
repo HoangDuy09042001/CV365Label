@@ -1,0 +1,66 @@
+{
+    "0": [
+        "Mục tiêu nghề nghiệp",
+        2,
+        [
+            "Nội dung"
+        ]
+    ],
+    "1": [
+        "Thông tin căn bản",
+        5,
+        [
+            "Ngày sinh",
+            "Địa chỉ",
+            "SDT",
+            "email",
+            "instagram"
+        ]
+    ],
+    "2": [
+        "Học vấn",
+        4,
+        [
+            "Nơi học",
+            "Chuyên ngành",
+            "GPA",
+            "Trung tâm đào tạo"
+        ]
+    ],
+    "3": [
+        "Kinh nghiệm",
+        4,
+        [
+            "Khoảng thời gian làm việc 1",
+            "Nội dung 1",
+            "Khoảng thời gian làm việc 2",
+            "Nội dung 2"
+        ]
+    ],
+    "4": [
+        "Chứng chỉ - Giải thưởng",
+        1,
+        [
+            "Nội dung"
+        ]
+    ],
+    "5": [
+        "Kỹ năng",
+        3,
+        [
+            "Kỹ năng 1",
+            "Kỹ năng 2",
+            "Kỹ năng 3"
+        ]
+    ],
+    "6": [
+        "Ngôn ngữ",
+        2,
+        ["Ngoại ngữ 1", "Ngoại ngữ 2"]
+    ],
+    "7": [
+        "Rỗng", 
+        0,
+        []
+    ]
+}
