@@ -1,0 +1,66 @@
+{
+    "0": [
+        "KỸ NĂNG",
+        4,
+        [
+            "Kỹ năng 1",
+            "Kỹ năng 2",
+            "Kỹ năng 3",
+            "Kỹ năng 4"
+        ]
+    ],
+    "1": [
+        "NGOẠI NGỮ",
+        3,
+        [
+            "Ngoại ngữ 1",
+            "Ngoại ngữ 2",
+            "Ngoại ngữ 3"
+        ]
+    ],
+    "2": [
+        "Tên và nghề ứng tuyển",
+        2,
+        [
+            "Tên",
+            "Nghề ứng tuyển"
+        ]
+    ],
+    "3": [
+        "Mục tiêu làm việc",
+        1,
+        [
+            "Nội dung"
+        ]
+    ],
+    "4": [
+        "Kinh nghiệm làm việc",
+        2,
+        [
+            "Kinh nghiệm làm việc 1",
+            "Kinh nghiệm làm việc 2"
+        ]
+    ],
+    "5": [
+        "Trình độ học vấn",
+        2,
+        [
+            "Trình độ học vấn 1",
+            "Trình độ học vấn 2"
+        ]
+    ],
+    "6": [
+        "THÔNG TIN LIÊN HỆ",
+        3,
+        [
+            "THÔNG TIN LIÊN HỆ 1",
+            "THÔNG TIN LIÊN HỆ 2",
+            "THÔNG TIN LIÊN HỆ 3"
+        ]
+    ],
+    "7": [
+        "Box nền",
+        0,
+        []
+    ]
+}
